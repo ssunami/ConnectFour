@@ -22,3 +22,7 @@ It was showns that the best overall model would be to play with a search depth o
 ## Source Code
 Open the Jupytor Notebook (https://github.com/ssunami/ConnectFour/blob/main/ConnectFour_Project_Code.ipynb) 
 The Notebook should be loadable in browser. This can also be downloaded locally though requires installing Python and Jupyter.
+
+## Project Report
+Full project report is available here ()
+
