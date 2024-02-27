@@ -24,5 +24,5 @@ Open the Jupytor Notebook (https://github.com/ssunami/ConnectFour/blob/main/Conn
 The Notebook should be loadable in browser. This can also be downloaded locally though requires installing Python and Jupyter.
 
 ## Project Report
-Full project report is available here ()
+Full project report is available here (https://github.com/ssunami/ConnectFour/blob/main/Project_Report_ConnectFour.pdf)
 
